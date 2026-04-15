@@ -1,1 +1,3 @@
-# HF_Agentic_AI
+This this project we are building:
+                                  1) Text Summariser
+                                  
